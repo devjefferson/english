@@ -9,7 +9,7 @@ _Append-only. Each entry starts with `## [YYYY-MM-DD]` for grep-parsability._
 
 ## [2026-04-12] query | Primeira página: pronúncia de palavras do cotidiano
 - Output: wiki/concepts/pronuncia-palavras-do-cotidiano.md
-- Contexto: usuário nível A1, objetivo tech + cotidiano, dificuldade com pronúncia de anglicismos
+- Contexto: usuário nível A1, objetivo tech + cotidiano, dificuldade com pronúncia de anglicismos 
 - Filed back: yes
 
 ## [2026-04-12] query | Expansão do wiki — 3 novas páginas

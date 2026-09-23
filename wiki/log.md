@@ -64,3 +64,11 @@ _Append-only. Each entry starts with `## [YYYY-MM-DD]` for grep-parsability._
 ## [2026-09-17] refactor | Ampliação de [[be-substantivos-is-are]]
 - Adicionados mais exemplos por seção (5 na afirmativa singular; 4 em cada negativa e plural)
 - Explicações mais detalhadas: concordância it/they, motivo do artigo sumir no plural, erro comum de usar "it" com sujeito plural
+
+## [2026-09-22] aula | Palavrões e gírias (Swear Words)
+- Page criada: [[palavroes-e-girias]]
+- Notas: nível B1, registro vulgar/informal (usuário maior de idade). Drill de 10 questões proposto, aguardando respostas do usuário.
+
+## [2026-09-22] refactor | Ampliação de [[palavroes-e-girias]]
+- Adicionadas 4 seções: abreviações de chat (WTF, STFU, GTFO, FFS, OMFG, SOB), eufemismos suavizados (frick, darn, shoot, dang), gírias britânicas (bloody, bugger, bollocks, wanker, twat, arse) e mais insultos genéricos (jerk, loser, scumbag, dumbass, jackass)
+- Nível da página elevado de B1 para B2

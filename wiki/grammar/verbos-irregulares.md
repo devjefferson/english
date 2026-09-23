@@ -8,7 +8,7 @@ updated: 2026-09-16
 sources: []
 related: [dialogo-simple-past.md, simple-past.md, pronomes-pessoais-e-objeto.md, verbos-de-acao.md]
 ---
-
+''''''''
 # Verbos irregulares
 
 > **Legenda de cores:** <span style="color:#3b82f6">azul = sujeito</span> · <span style="color:#22c55e">verde = verbo/ação</span> · <span style="color:#eab308">amarelo = complemento/detalhe</span>

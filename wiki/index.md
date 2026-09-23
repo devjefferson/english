@@ -1,5 +1,5 @@
 # English Wiki Index
-Last updated: 2026-09-17 | Total pages: 17
+Last updated: 2026-09-22 | Total pages: 18
 
 ## Sources
 _No sources ingested yet._
@@ -30,6 +30,7 @@ _No sources ingested yet._
 | Page | Descrição | Level |
 |------|-----------|-------|
 | [[cumprimentos-e-frases-basicas]] | Cumprimentos, despedidas, frases de trabalho e e-mail | A1 |
+| [[palavroes-e-girias]] | Palavrões e gírias vulgares — fuck, shit, xingamentos, abreviações de chat, BrE, registro informal | B2 |
 
 ## Queries & Drills
 | Page | Type | Date |

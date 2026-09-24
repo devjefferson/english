@@ -6,7 +6,7 @@ tags: [pronomes, gramatica, basico, pronuncia]
 created: 2026-09-09
 updated: 2026-09-16
 sources: []
-related: [simple-past.md, verbos-irregulares.md, verbos-de-acao.md]
+related: [simple-past.md, verbos-irregulares.md, verbos-de-acao.md, contracoes.md]
 ---
 
 # Pronomes pessoais e pronomes objeto
@@ -98,3 +98,7 @@ No presente, quando o sujeito é **he, she ou it**, o verbo ganha **-s**.
 | they | **their** | *dêr* | their API (*dêr êi-pi-<span style="color:#ef4444">ái</span>*) |
 
 > ⚠️ **Erro comum:** `its` (possessivo, sem apóstrofo) vs `it's` (= *it is*). Os dois se pronunciam ***its***, só a escrita muda. `**It's** broken` = está quebrado. `**Its** name is...` = o nome dele é...
+
+## Praticar
+
+- [[contracoes]] — regra completa de contrações (be, not, will/would) e a pegadinha it's/its/they're/their

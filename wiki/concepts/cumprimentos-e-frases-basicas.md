@@ -66,7 +66,7 @@ Frases prontas que você pode usar no dia a dia — em reuniões, mensagens, e-m
 | **See you later**     | sii yuu <span style="color:#ef4444">lei</span>-ter    | Até mais             | Informal                 |
 | **Talk to you later** | tók tu yuu <span style="color:#ef4444">lei</span>-ter | Falo com você depois | Muito comum em mensagens |
 | **Take care**         | teik ker                                              | Se cuida             | Informal, amigável       |
-| **Have a good one**   | rév e gud uan                                         | Tenha um bom dia     | Informal                 |
+| **Have a good one**   | rév â gud uan                                         | Tenha um bom dia     | Informal                 |
 
 ---
 

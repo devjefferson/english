@@ -72,3 +72,23 @@ _Append-only. Each entry starts with `## [YYYY-MM-DD]` for grep-parsability._
 ## [2026-09-22] refactor | Ampliação de [[palavroes-e-girias]]
 - Adicionadas 4 seções: abreviações de chat (WTF, STFU, GTFO, FFS, OMFG, SOB), eufemismos suavizados (frick, darn, shoot, dang), gírias britânicas (bloody, bugger, bollocks, wanker, twat, arse) e mais insultos genéricos (jerk, loser, scumbag, dumbass, jackass)
 - Nível da página elevado de B1 para B2
+
+## [2026-09-24] rule | Enriquecer conteúdo com contexto real
+- Comando `.claude/commands/aula.md`: nova regra — todo item novo (palavra/expressão/ponto gramatical) deve vir com pelo menos um enriquecimento (contexto de uso, curiosidade/etimologia, comparação com português, ou família de palavras), limitado a 1-2 linhas.
+
+## [2026-09-24] aula | Objetos de escritório e pronomes demonstrativos (this/these)
+- Fonte: prints da aula "Nouns" e "Demonstrative Pronouns" (Overcome Idiomas)
+- Pages criadas: [[objetos-de-escritorio]], [[pronomes-demonstrativos]]
+- Pages atualizadas: [[substantivos-plural]] (nova seção de substantivos plural-only: scissors, jeans, glasses, pants)
+- Repetição espaçada: reativada a regra de plural-only já coberta implicitamente em [[substantivos-plural]]
+- Notas: nível A1. Drill de 10 questões proposto, aguardando respostas do usuário.
+
+## [2026-09-24] refactor | Enriquecimento de [[objetos-de-escritorio]] e [[pronomes-demonstrativos]]
+- [[objetos-de-escritorio]]: adicionados 7 itens novos (stapler, staples, highlighter, marker, glue, folder, whiteboard, rubber band), curiosidade sobre etimologia de "scissors" (par de lâminas), família de palavras do sufixo -er, e falso amigo "rubber" (BrE borracha vs AmE gíria vulgar)
+- [[pronomes-demonstrativos]]: adicionado o par that/those (estava faltando — material original só cobria this/these), título e frontmatter atualizados para refletir o conjunto completo
+
+## [2026-09-24] aula | Contrações (be, not, will/would)
+- Page criada: [[contracoes]] — afirmativas de "to be" (I'm/you're/he's...), negativas (isn't/aren't/don't/doesn't/didn't/haven't/hasn't), will/would (I'll/I'd) e a exceção irregular won't, regra do apóstrofo, pegadinha it's vs its vs they're vs their vs there
+- Backlinks adicionados em [[simple-past]], [[be-substantivos-is-are]], [[pronomes-pessoais-e-objeto]]
+- Repetição espaçada: reativados didn't ([[simple-past]]) e it's/aren't ([[pronomes-demonstrativos]]) no início da aula
+- Notas: nível A1. Sem drill formal desta vez — aula focada em explicação/justificativa a pedido do usuário.

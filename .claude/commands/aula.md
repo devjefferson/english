@@ -43,6 +43,17 @@ Exemplo de aplicação:
 
 No topo de toda página nova de gramática/vocabulário, inclua a legenda das 3 cores uma vez (não precisa repetir em cada frase). Use essa mesma codificação nos exemplos do chat, não só na wiki.
 
+## Regra: enriquecer o conteúdo com contexto real
+
+Não entregue só a definição seca. Toda palavra, expressão ou ponto gramatical novo deve vir acompanhado de **pelo menos um** destes enriquecimentos, quando fizer sentido para o item:
+
+- **Contexto de uso** — em que situação/registro nativos usam isso (conversa informal, e-mail de trabalho, filme, notícia). Prefira um exemplo que soe como algo dito de verdade, não uma frase de livro didático.
+- **Curiosidade/etimologia** — origem da palavra, phrasal verb formado de onde, por que a expressão existe (quando relevante e curto — 1-2 frases, não uma aula de história).
+- **Comparação com o português** — quando algo do português "engana" (falso cognato, ordem de palavras diferente, ausência de equivalente direto), explique o porquê, não só o quê.
+- **Palavras da mesma família** — se o item tem variações úteis (substantivo/verbo/adjetivo da mesma raiz, sinônimos comuns, antônimos), liste rapidamente em 1 linha — sem virar bloco novo de teoria.
+
+Enriquecimento é complemento, não decoração: deve caber em 1-2 linhas por item, dentro dos blocos curtos já exigidos acima. Nunca deixe o enriquecimento virar parágrafo longo — se não couber em 1-2 linhas, corte.
+
 ## Fluxo da aula
 
 1. **Diagnóstico** — leia `wiki/index.md` e as páginas relacionadas ao tópico. Identifique o que já está coberto, o que falta, e puxe 1-2 itens de repetição espaçada de aulas anteriores.

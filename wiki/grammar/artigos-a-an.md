@@ -60,10 +60,10 @@ A pegadinha mais comum: "u" às vezes soa como **consoante** (/j/, "iú" — com
 
 | U como CONSOANTE → usa **a** | Pronúncia                                                                           | U como VOGAL → usa **an** | Pronúncia                                           |
 | ---------------------------- | ----------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------- |
-| a **u**niform                | e <span style="color:#ef4444">iú</span>nifórm                                       | an **u**mbrella           | ân âm<span style="color:#ef4444">bré</span>lâ       |
-| a **u**niverse               | e <span style="color:#ef4444">iú</span>nivêrs                                       | an **u**ncle              | ân <span style="color:#ef4444">ân</span>câl         |
-| a **u**sed pencil            | e <span style="color:#ef4444">iúzd</span> <span style="color:#ef4444">pên</span>sil | an **u**pgrade            | ân <span style="color:#ef4444">âp</span>greid       |
-| a **u**niversity             | e iuni<span style="color:#ef4444">vér</span>siti                                    | an **u**nderstanding      | ân ânders<span style="color:#ef4444">tén</span>ding |
+| a **u**niform                | â <span style="color:#ef4444">iú</span>nifórm                                       | an **u**mbrella           | ân âm<span style="color:#ef4444">bré</span>lâ       |
+| a **u**niverse               | â <span style="color:#ef4444">iú</span>nivêrs                                       | an **u**ncle              | ân <span style="color:#ef4444">ân</span>câl         |
+| a **u**sed pencil            | â <span style="color:#ef4444">iúzd</span> <span style="color:#ef4444">pên</span>sil | an **u**pgrade            | ân <span style="color:#ef4444">âp</span>greid       |
+| a **u**niversity             | â iuni<span style="color:#ef4444">vér</span>siti                                    | an **u**nderstanding      | ân ânders<span style="color:#ef4444">tén</span>ding |
 
 > ⚠️ **Erro comum de brasileiro:** achar que toda palavra com "u" é `an`. Regra prática: se o "u" soa "**iú**" (como em "you"), é **a**. Se soa "**â**" puro, é **an**.
 

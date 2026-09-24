@@ -6,7 +6,7 @@ tags: [tempo-verbal, passado, gramatica, pronuncia]
 created: 2026-09-09
 updated: 2026-09-16
 sources: []
-related: [dialogo-simple-past.md, verbos-irregulares.md, pronomes-pessoais-e-objeto.md, verbos-de-acao.md]
+related: [dialogo-simple-past.md, verbos-irregulares.md, pronomes-pessoais-e-objeto.md, verbos-de-acao.md, contracoes.md]
 ---
 
 # Simple Past
@@ -117,3 +117,4 @@ Precisam ser decorados. Ver [[verbos-irregulares]].
 ## Praticar
 
 - [[dialogo-simple-past]] — diálogos com tradução e pronúncia
+- [[contracoes]] — did not → didn't, a forma natural de negar no passado

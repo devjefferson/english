@@ -6,7 +6,7 @@ tags: [be, is, are, negativa, plural, gramatica, pronuncia]
 created: 2026-09-17
 updated: 2026-09-17
 sources: []
-related: [artigos-a-an.md, substantivos-plural.md, ordem-adjetivo-substantivo.md]
+related: [artigos-a-an.md, substantivos-plural.md, ordem-adjetivo-substantivo.md, contracoes.md]
 ---
 
 # Be (is/are) com substantivos: afirmar, negar e pluralizar
@@ -22,19 +22,19 @@ O verbo `be` (ser/estar) concorda com o sujeito: **um** substantivo → `is`; **
 Quando o sujeito é **uma coisa só**, use `is` + `a`/`an` + substantivo.
 
 <span style="color:#3b82f6">Orange</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">a color</span>.
-*<span style="color:#ef4444">ó</span>rindj iz e <span style="color:#ef4444">câ</span>lâr* — Laranja é uma cor.
+*<span style="color:#ef4444">ó</span>rindj iz â <span style="color:#ef4444">câ</span>lâr* — Laranja é uma cor.
 
 <span style="color:#3b82f6">Harvard</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">a university</span>.
-*<span style="color:#ef4444">rár</span>vârd iz e iuni<span style="color:#ef4444">vér</span>siti* — Harvard é uma universidade.
+*<span style="color:#ef4444">rár</span>vârd iz â iuni<span style="color:#ef4444">vér</span>siti* — Harvard é uma universidade.
 
 <span style="color:#3b82f6">A bee</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">an insect</span>.
-*e bii iz ân <span style="color:#ef4444">ín</span>sect* — Uma abelha é um inseto.
+*â bii iz ân <span style="color:#ef4444">ín</span>sect* — Uma abelha é um inseto.
 
 <span style="color:#3b82f6">Tennis</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">a sport</span>.
-*<span style="color:#ef4444">té</span>nis iz e spórt* — Tênis é um esporte.
+*<span style="color:#ef4444">té</span>nis iz â spórt* — Tênis é um esporte.
 
 <span style="color:#3b82f6">Japan</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">a country</span>.
-*djâ<span style="color:#ef4444">pén</span> iz e <span style="color:#ef4444">cân</span>tri* — Japão é um país.
+*djâ<span style="color:#ef4444">pén</span> iz â <span style="color:#ef4444">cân</span>tri* — Japão é um país.
 
 > 💡 Repare que o artigo (`a` ou `an`) muda conforme o som da palavra seguinte — é a mesma regra de [[artigos-a-an]]: `a color`, `a sport`, `a country` (consoante) vs `an insect` (vogal).
 
@@ -43,16 +43,16 @@ Quando o sujeito é **uma coisa só**, use `is` + `a`/`an` + substantivo.
 Para **negar e corrigir**, o padrão tem duas partes: primeiro nega o que está errado, depois afirma o que é certo. A segunda frase troca o nome pelo pronome `it` — não repete o substantivo.
 
 <span style="color:#3b82f6">Brazil</span> <span style="color:#22c55e">is not</span> <span style="color:#eab308">a city</span>. <span style="color:#3b82f6">It</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">a country</span>.
-*brâ<span style="color:#ef4444">zíl</span> iz nót e <span style="color:#ef4444">sí</span>ti. it iz e <span style="color:#ef4444">cân</span>tri* — O Brasil não é uma cidade. É um país.
+*brâ<span style="color:#ef4444">zíl</span> iz nót â <span style="color:#ef4444">sí</span>ti. it iz â <span style="color:#ef4444">cân</span>tri* — O Brasil não é uma cidade. É um país.
 
 <span style="color:#3b82f6">A vase</span> <span style="color:#22c55e">is not</span> <span style="color:#eab308">a country</span>. <span style="color:#3b82f6">It</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">a thing</span>.
-*e véis iz nót e <span style="color:#ef4444">cân</span>tri. it iz e thíng* — Um vaso não é um país. É uma coisa.
+*â véis iz nót â <span style="color:#ef4444">cân</span>tri. it iz â thíng* — Um vaso não é um país. É uma coisa.
 
 <span style="color:#3b82f6">An elephant</span> <span style="color:#22c55e">is not</span> <span style="color:#eab308">a city</span>. <span style="color:#3b82f6">It</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">an animal</span>.
-*ân <span style="color:#ef4444">é</span>lifânt iz nót e <span style="color:#ef4444">sí</span>ti. it iz ân <span style="color:#ef4444">é</span>nimâl* — Um elefante não é uma cidade. É um animal.
+*ân <span style="color:#ef4444">é</span>lifânt iz nót â <span style="color:#ef4444">sí</span>ti. it iz ân <span style="color:#ef4444">é</span>nimâl* — Um elefante não é uma cidade. É um animal.
 
 <span style="color:#3b82f6">New York</span> <span style="color:#22c55e">is not</span> <span style="color:#eab308">a sport</span>. <span style="color:#3b82f6">It</span> <span style="color:#22c55e">is</span> <span style="color:#eab308">a city</span>.
-*niú iórk iz nót e spórt. it iz e <span style="color:#ef4444">sí</span>ti* — Nova York não é um esporte. É uma cidade.
+*niú iórk iz nót â spórt. it iz â <span style="color:#ef4444">sí</span>ti* — Nova York não é um esporte. É uma cidade.
 
 > 💡 Padrão fixo: **[X] is not a/an [errado]. It is a/an [certo].**
 
@@ -108,3 +108,4 @@ Mesma lógica da negativa singular, mas o pronome que substitui o sujeito é `th
 - [[artigos-a-an]] — quando usar a/an no singular
 - [[substantivos-plural]] — regras de pluralização
 - [[ordem-adjetivo-substantivo]] — como inserir adjetivos nessas frases
+- [[contracoes]] — is not → isn't, are not → aren't na fala natural

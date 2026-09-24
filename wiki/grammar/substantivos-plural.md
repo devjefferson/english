@@ -59,9 +59,27 @@ Noun = pessoa, lugar, coisa ou ideia. Os 10 substantivos de [[adjetivos-descriti
 
 > ⚠️ **Erro comum:** ~~*persons, mans, childs*~~ → **people, men, children**.
 
+## Substantivos "plural-only" (peças de duas partes)
+
+Objetos formados por duas partes simétricas são **sempre plural** em inglês, mesmo quando em português usamos singular.
+
+| Escrito | Pronúncia | Significado |
+|---|---|---|
+| scissors | *s<span style="color:#ef4444">í</span>zârz* | tesoura |
+| jeans | *djínz* | calça jeans |
+| sunglasses | *s<span style="color:#ef4444">ân</span>glesiz* | óculos de sol |
+| glasses | *gl<span style="color:#ef4444">és</span>iz* | óculos |
+| pants | *pents* | calça |
+
+**Comparação com o português:** "calça" e "óculos" soam singulares pra brasileiro, mas em inglês exigem "these/they are", nunca "this/it is".
+
+> ⚠️ **Erro comum:** dizer "this is my pants" — o correto é **these are my pants**. Ver [[pronomes-demonstrativos]].
+
 ## Praticar
 
 - [[adjetivos-descritivos-basicos]] — os 10 substantivos base desta lição
 - [[be-substantivos-is-are]] — como usar is/are + esses substantivos em frases de identidade
 - [[ordem-adjetivo-substantivo]] — como combinar adjetivo + substantivo
 - [[artigos-a-an]] — a/an só existe no singular countable
+- [[pronomes-demonstrativos]] — this/these + it/they
+- [[objetos-de-escritorio]] — vocabulário de escritório que usa scissors/paper clips

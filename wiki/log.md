@@ -92,3 +92,12 @@ _Append-only. Each entry starts with `## [YYYY-MM-DD]` for grep-parsability._
 - Backlinks adicionados em [[simple-past]], [[be-substantivos-is-are]], [[pronomes-pessoais-e-objeto]]
 - Repetição espaçada: reativados didn't ([[simple-past]]) e it's/aren't ([[pronomes-demonstrativos]]) no início da aula
 - Notas: nível A1. Sem drill formal desta vez — aula focada em explicação/justificativa a pedido do usuário.
+
+## [2026-10-08] aula | Verbo to be com pronomes + Jobs
+- Fonte: material colado pelo usuário (mindmap "Verb to be + Jobs")
+- Pages criadas: [[verbo-be-pronomes]] (hub com mindmap Mermaid), [[profissoes]]
+- Backlinks: [[be-substantivos-is-are]], [[contracoes]], [[pronomes-pessoais-e-objeto]], [[adjetivos-descritivos-basicos]], [[ordem-adjetivo-substantivo]]
+- Notas: corrigido "school" (texto árabe corrompido na pronúncia) e adicionado aviso de registro para dumb/stupid. Primeira aula com mindmap + Mermaid. Drill proposto, aguardando respostas.
+
+## [2026-10-08] refactor | Remoção do Mermaid
+- Removidos os blocos Mermaid de [[verbo-be-pronomes]] e [[profissoes]]; mindmaps viraram árvores em texto. Comando `aula.md` atualizado.

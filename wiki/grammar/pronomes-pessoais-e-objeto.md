@@ -6,7 +6,7 @@ tags: [pronomes, gramatica, basico, pronuncia]
 created: 2026-09-09
 updated: 2026-09-16
 sources: []
-related: [simple-past.md, verbos-irregulares.md, verbos-de-acao.md, contracoes.md]
+related: [verbo-be-pronomes.md, simple-past.md, verbos-irregulares.md, verbos-de-acao.md, contracoes.md]
 ---
 
 # Pronomes pessoais e pronomes objeto

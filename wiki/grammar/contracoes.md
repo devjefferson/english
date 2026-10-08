@@ -6,7 +6,7 @@ tags: [contracoes, gramatica, pronuncia]
 created: 2026-09-24
 updated: 2026-09-24
 sources: []
-related: [pronomes-demonstrativos.md, be-substantivos-is-are.md, simple-past.md, pronomes-pessoais-e-objeto.md]
+related: [verbo-be-pronomes.md, pronomes-demonstrativos.md, be-substantivos-is-are.md, simple-past.md, pronomes-pessoais-e-objeto.md]
 ---
 
 # Contrações: be, not, will/would

@@ -6,7 +6,7 @@ tags: [be, is, are, negativa, plural, gramatica, pronuncia]
 created: 2026-09-17
 updated: 2026-09-17
 sources: []
-related: [artigos-a-an.md, substantivos-plural.md, ordem-adjetivo-substantivo.md, contracoes.md]
+related: [verbo-be-pronomes.md, artigos-a-an.md, substantivos-plural.md, ordem-adjetivo-substantivo.md, contracoes.md]
 ---
 
 # Be (is/are) com substantivos: afirmar, negar e pluralizar

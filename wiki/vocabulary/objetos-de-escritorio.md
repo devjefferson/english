@@ -36,16 +36,16 @@ Nouns do material "Word It Up" (Overcome Idiomas) — objetos de estojo e escrit
 
 ## Mais objetos de escritório
 
-| Escrito | Pronúncia | Significado |
-|---|---|---|
-| a stapler | *â st<span style="color:#ef4444">éi</span>plâr* | um grampeador |
-| staples | *st<span style="color:#ef4444">éi</span>pâls* | grampos |
-| a highlighter | *â h<span style="color:#ef4444">ái</span>láitâr* | um marca-texto |
-| a marker | *â m<span style="color:#ef4444">ár</span>kâr* | uma caneta marcador |
-| glue | *glú* | cola |
-| a folder | *â f<span style="color:#ef4444">ôul</span>dâr* | uma pasta |
-| a whiteboard | *â u<span style="color:#ef4444">áit</span>bôrd* | um quadro branco |
-| a rubber band | *â r<span style="color:#ef4444">âb</span>âr bend* | um elástico |
+| Escrito       | Pronúncia                                         | Significado         |
+| ------------- | ------------------------------------------------- | ------------------- |
+| a stapler     | *â st<span style="color:#ef4444">éi</span>plâr*   | um grampeador       |
+| staples       | *st<span style="color:#ef4444">éi</span>pâls*     | grampos             |
+| a highlighter | *â h<span style="color:#ef4444">ái</span>láitâr*  | um marca-texto      |
+| a marker      | *â m<span style="color:#ef4444">ár</span>kâr*     | uma caneta marcador |
+| glue          | *glú*                                             | cola                |
+| a folder      | *â f<span style="color:#ef4444">ôul</span>dâr*    | uma pasta           |
+| a whiteboard  | *â u<span style="color:#ef4444">áit</span>bôrd*   | um quadro branco    |
+| a rubber band | *â r<span style="color:#ef4444">âb</span>âr bend* | um elástico         |
 
 **Família de palavras:** stapl**er** (quem grampeia) vem de stapl**e** (grampo) — o mesmo padrão de sharpen**er** vindo de sharp (afiado) e highlight**er** vindo de highlight (destacar). É um sufixo produtivo: verbo/adjetivo + **-er** = objeto que faz aquilo.
 

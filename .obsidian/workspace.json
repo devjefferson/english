@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/grammar/contracoes.md",
+                "file": "wiki/vocabulary/objetos-de-escritorio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contracoes"
+              "title": "objetos-de-escritorio"
             }
           }
         ]
@@ -187,19 +187,22 @@
   },
   "active": "211ad8c21c9fdee9",
   "lastOpenFiles": [
-    "wiki/grammar/pronomes-demonstrativos.md",
-    "wiki/grammar/contracoes.md",
+    "wiki/vocabulary/profissoes.md",
     "wiki/vocabulary/objetos-de-escritorio.md",
-    "wiki/grammar/substantivos-plural.md",
     "wiki/grammar/pronomes-pessoais-e-objeto.md",
-    "wiki/vocabulary/adjetivos-descritivos-basicos.md",
-    "wiki/grammar/be-substantivos-is-are.md",
+    "wiki/grammar/ordem-adjetivo-substantivo.md",
+    "wiki/grammar/contracoes.md",
     "wiki/grammar/artigos-a-an.md",
+    "wiki/grammar/be-substantivos-is-are.md",
+    "wiki/grammar/pronomes-demonstrativos.md",
+    "wiki/grammar/verbo-be-pronomes.md",
+    "wiki/vocabulary/adjetivos-descritivos-basicos.md",
+    "wiki/index.md",
+    "wiki/log.md",
+    "wiki/grammar/substantivos-plural.md",
     "wiki/concepts/palavroes-e-girias.md",
     "wiki/vocabulary/dias-da-semana.md",
     "wiki/vocabulary/meses.md",
-    "wiki/index.md",
-    "wiki/log.md",
     "CLAUDE.md",
     "wiki/concepts/frases-de-erro-e-terminal.md",
     "wiki/concepts/cumprimentos-e-frases-basicas.md",
@@ -208,7 +211,6 @@
     "wiki/grammar/simple-past.md",
     "wiki/grammar/verbos-irregulares.md",
     "wiki/queries/dialogo-simple-past.md",
-    "wiki/grammar/ordem-adjetivo-substantivo.md",
     "wiki/vocabulary/numeros.md",
     "Verbos de Ação.md",
     "wiki/vocabulary",

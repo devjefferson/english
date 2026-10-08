@@ -1,5 +1,5 @@
 # English Wiki Index
-Last updated: 2026-09-24 | Total pages: 21
+Last updated: 2026-10-08 | Total pages: 23
 
 ## Sources
 _No sources ingested yet._
@@ -14,6 +14,7 @@ _No sources ingested yet._
 | [[numeros]]                         | 0-100, cardinais, -teen vs -ty | A1 |
 | [[dias-da-semana]]                  | Monday-Sunday, sempre maiúsculo | A1 |
 | [[meses]]                           | January-December, sempre maiúsculo | A1 |
+| [[profissoes]] | 10 profissões + 9 adjetivos de personalidade, adjetivo+job, a/an | A1 |
 | [[objetos-de-escritorio]]           | Substantivos de escritório/estojo (Word It Up) + stapler/glue/folder + outdoor vs billboard | A1 |
 
 ## Grammar
@@ -27,6 +28,7 @@ _No sources ingested yet._
 | [[substantivos-plural]] | Countable/uncountable, plural regular e irregular, pronúncia do -s |
 | [[be-substantivos-is-are]] | Is/are com substantivos: afirmar, negar e pluralizar identidade |
 | [[pronomes-demonstrativos]] | This/that/these/those + it/they, contrações, plural obrigatório |
+| [[verbo-be-pronomes]] | Be com pronomes: am/is/are, afirmativa, negativa, perguntas, Q-words (mindmap + Mermaid) |
 | [[contracoes]] | I'm/isn't/won't — regra de apóstrofo, be/not/will, pegadinha it's vs its |
 
 ## Expressions

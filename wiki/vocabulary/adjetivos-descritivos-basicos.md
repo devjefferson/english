@@ -6,7 +6,7 @@ tags: [adjetivos, vocabulario, pronuncia]
 created: 2026-09-16
 updated: 2026-09-16
 sources: []
-related: [ordem-adjetivo-substantivo.md, artigos-a-an.md]
+related: [profissoes.md, ordem-adjetivo-substantivo.md, artigos-a-an.md]
 ---
 
 # Adjetivos descritivos básicos

@@ -6,7 +6,7 @@ tags: [ordem-de-palavras, adjetivos, gramatica, pronuncia]
 created: 2026-09-16
 updated: 2026-09-16
 sources: []
-related: [artigos-a-an.md, adjetivos-descritivos-basicos.md]
+related: [profissoes.md, artigos-a-an.md, adjetivos-descritivos-basicos.md]
 ---
 
 # Ordem: adjetivo antes do substantivo
